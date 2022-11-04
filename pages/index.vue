@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen bg-Lightgray">
     <div class="absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2">
-      <div class="w-[270px] flex flex-col bg-White p-4 rounded-2xl items-center font-outfit">
+      <div class="w-[270px] flex flex-col bg-White p-4 rounded-2xl items-center font-outfit drop-shadow-xl">
         <div class="qrCode mb-4">
           <img class="h-[250px] rounded-2xl" src="images/image-qr-code.png"/>
         </div>
